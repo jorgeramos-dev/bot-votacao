@@ -1,4 +1,4 @@
-## 💻 Curso: Bot de Votação Corrida das Blogueiras
+## 💻 Bot de Votação Corrida das Blogueiras
 
 - Código de Bot desenvolvido em Python para votação realite Corrida das Blogueiras.
 
