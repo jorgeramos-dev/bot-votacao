@@ -2,6 +2,12 @@
 
 - Código de Bot desenvolvido em Python para votação realite Corrida das Blogueiras.
 
+## :rocket: Tecnologias
+
+Neste projeto foram utilizadas as seguintes tecnologias:
+
+- Python 3
+
 ## ▶️ Utilização
  - python robo.py
 
